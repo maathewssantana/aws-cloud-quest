@@ -11,6 +11,6 @@ As instâncias EC2 de marketing e desenvolviedor precisam acessar o servidor de 
 
 ### Diagrama do fluxo ✅
 
-![chrome_orh3z5tIJL](https://github.com/user-attachments/assets/af250377-1687-435d-907b-9e23897f705e)
+![chrome_0w7RFg0pqU](https://github.com/user-attachments/assets/40d44b84-89b5-4a9c-b0bd-dd0d0ba4f652)
 
 # Execução 🚀
