@@ -1,5 +1,6 @@
 
-# Emparelhamento de VPC Aws
+# Emparelhamento de VPC ![icons8-rede-com-cabos-32](https://github.com/user-attachments/assets/b1e82a35-1db6-4afd-a104-bf8773bc589f)
+
 
 ## Laborátório 🥼
 
