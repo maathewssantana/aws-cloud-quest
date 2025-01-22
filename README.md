@@ -17,6 +17,6 @@
 
 
 
-### 🪣 [Conectando Redes VPC ](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/Criar%20um%20Site%20no%20S3.md)
+### [Conectando Redes VPC ](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/Criar%20um%20Site%20no%20S3.md)
 
 <sub> _Neste tópico mostra a conexão entre redes VPC na AWS_ </sub>
