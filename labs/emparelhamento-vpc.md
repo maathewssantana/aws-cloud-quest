@@ -5,7 +5,7 @@
 
 ## Objetivo
 
-Permitor a comunicação entre as aplicações hospedadas em diferentes VPCs usando o emparelhamento de VPC.
+Permitir a comunicação entre as aplicações hospedadas em diferentes VPCs usando o emparelhamento de VPC.
 As instâncias EC2 de marketing e desenvolviedor precisam acessar o servidor de serviços financeiros na VPC do departamento financeiro VPC do departamento financeiro.
 
 ### Diagrama do fluxo ✅
