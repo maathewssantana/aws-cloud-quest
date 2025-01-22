@@ -10,11 +10,7 @@
 
 # Amazon Web Services  <img src="https://img.shields.io/badge/Em%20Andamento-8A2BE2"/>
 
-## Emparelhamento de VPC
-
-![icons8-rede-com-cabos-48](https://github.com/user-attachments/assets/79019f02-b1b2-42fa-8c97-219df30fb64e)
-
-
+## Emparelhamento de VPC ![icons8-rede-com-cabos-32](https://github.com/user-attachments/assets/f3ca4c27-d9c9-4616-bab6-0060b81a09f6)
 
 
 ### [Conectando Redes VPC ](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/Criar%20um%20Site%20no%20S3.md)
