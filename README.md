@@ -16,3 +16,9 @@
 ### [Conectando Redes VPC ](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/emparelhamento-vpc.md)
 
 <sub> _Neste tópico mostra a conexão entre redes VPC na AWS_ </sub>
+
+## Banco NoSQL
+
+### [Banco NoSQL ](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/emparelhamento-vpc.md)
+
+<sub> _Neste tópico mostra a criação banco de dados NoSQL_ </sub>
