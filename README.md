@@ -13,6 +13,6 @@
 ## Emparelhamento de VPC ![icons8-rede-com-cabos-32](https://github.com/user-attachments/assets/f3ca4c27-d9c9-4616-bab6-0060b81a09f6)
 
 
-### [Conectando Redes VPC ](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/emparelhamento-vpc)
+### [Conectando Redes VPC ](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/emparelhamento-vpc.md)
 
 <sub> _Neste tópico mostra a conexão entre redes VPC na AWS_ </sub>
