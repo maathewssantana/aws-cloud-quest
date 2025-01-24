@@ -17,7 +17,8 @@
 
 <sub> _Neste tópico mostra a conexão entre redes VPC na AWS_ </sub>
 
-## Banco NoSQL
+## Banco NoSQL ![icons8-aceitar-banco-de-dados-32](https://github.com/user-attachments/assets/761769b7-bfec-43ed-a5ae-dc1d908128d6)
+
 
 ### [Banco NoSQL ](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/bd-nosql.md)
 
