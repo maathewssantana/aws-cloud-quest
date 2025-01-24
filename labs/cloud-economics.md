@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-- Crie agrupamentos lóficos de preços~.
+- Crie agrupamentos lógico de preços.
 - Crie estimativas semanais, mensais e anuais para instâncias EC2
 
 ### Diagrama do fluxo ✅
