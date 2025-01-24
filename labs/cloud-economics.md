@@ -1,4 +1,4 @@
-# Cloud Economisc
+# Cloud Economics
 
 ## Laborátório 🥼
 
