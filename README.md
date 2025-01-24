@@ -25,6 +25,6 @@
 
 ## Cloud Economics
 
-### [Economias na nuvem](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/bd-nosql.md)
+### [Economias na nuvem](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/cloud-economics.md)
 
 <sub> _Neste tópico mostra a Arqitetura variável melhorar custo_ </sub>
