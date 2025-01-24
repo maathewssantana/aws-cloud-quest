@@ -23,8 +23,14 @@
 
 <sub> _Neste tópico mostra a criação banco de dados NoSQL_ </sub>
 
-## Cloud Economics
+## Cloud Economics ![icons8-custo-32](https://github.com/user-attachments/assets/178a7532-79e6-4506-87d6-d5ebf8c98255)
 
 ### [Economias na nuvem](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/cloud-economics.md)
 
 <sub> _Neste tópico mostra a Arqitetura variável melhorar custo_ </sub>
+
+## Amazon EFS  ![icons8-armazenamento-na-núvem-32](https://github.com/user-attachments/assets/6453d0ed-0587-4fc3-8f70-38a1edea44d6)
+
+### [Amazon EFS ](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/armazenamento-efs.md)
+
+<sub> _Neste tópico mostra a sobre armazenamento de file system e compartilhamento_ </sub>
