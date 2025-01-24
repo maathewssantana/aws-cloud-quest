@@ -19,6 +19,6 @@
 
 ## Banco NoSQL
 
-### [Banco NoSQL ](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/emparelhamento-vpc.md)
+### [Banco NoSQL ](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/bd-nosql.md)
 
 <sub> _Neste tópico mostra a criação banco de dados NoSQL_ </sub>
