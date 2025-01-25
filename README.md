@@ -37,6 +37,6 @@
 
 ## Segurança IAM 
 
-### [Segurança IAM](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/armazenamento-efs.md)
+### [Segurança IAM](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/iam-secutiry.md)
 
 <sub> _Neste tópico mostra a sobre segurança do IAM_ </sub>
