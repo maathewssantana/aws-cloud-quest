@@ -34,3 +34,9 @@
 ### [Amazon EFS ](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/armazenamento-efs.md)
 
 <sub> _Neste tópico mostra a sobre armazenamento de file system e compartilhamento_ </sub>
+
+## Segurança IAM 
+
+### [Segurança IAM](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/armazenamento-efs.md)
+
+<sub> _Neste tópico mostra a sobre segurança do IAM_ </sub>
