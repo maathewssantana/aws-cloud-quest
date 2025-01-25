@@ -35,7 +35,7 @@
 
 <sub> _Neste tópico mostra a sobre armazenamento de file system e compartilhamento_ </sub>
 
-## Segurança IAM 
+## Segurança IAM ![icons8-cloud-firewall-32](https://github.com/user-attachments/assets/128be59d-d28a-4776-8062-45b677b6f6ed)
 
 ### [Segurança IAM](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/iam-secutiry.md)
 
