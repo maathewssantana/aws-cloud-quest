@@ -40,3 +40,9 @@
 ### [Segurança IAM](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/iam-secutiry.md)
 
 <sub> _Neste tópico mostra a sobre segurança do IAM_ </sub>
+
+## Amazon Auto Scaling ![icons8-duplicado-32](https://github.com/user-attachments/assets/e2afde55-2089-4fd4-a36e-a2081a1e7595)
+
+### [Auto Scaling](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/ec2-auto-scaling.md)
+
+<sub> _Neste tópico mostra a sobre auto scaling nas aplicações _ </sub>
