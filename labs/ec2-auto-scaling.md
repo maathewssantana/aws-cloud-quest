@@ -13,3 +13,6 @@
 
 
 # Execução 🚀
+
+1 - Ir até as instâncias EC2 
+(Game Server)
