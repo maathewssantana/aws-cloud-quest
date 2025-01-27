@@ -49,6 +49,6 @@
 
 ## High Availability Web Application ![icons8-web-responsiva-32](https://github.com/user-attachments/assets/6fd1a1f4-8476-47f2-a7ba-83fccee0003e)
 
-### [High Availability Web Application](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/ec2-auto-scaling.md)
+### [High Availability Web Application](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/web-application.md)
 
 <sub> _Neste tópico mostra a sobre Aplicativo Web de Alta disponibilidade_ </sub>
