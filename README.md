@@ -45,4 +45,10 @@
 
 ### [Auto Scaling](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/ec2-auto-scaling.md)
 
-<sub> _Neste tópico mostra a sobre auto scaling nas aplicações _ </sub>
+<sub> _Neste tópico mostra a sobre auto scaling nas aplicações_ </sub>
+
+## High Availability Web Application ![icons8-duplicado-32](https://github.com/user-attachments/assets/e2afde55-2089-4fd4-a36e-a2081a1e7595)
+
+### [High Availability Web Application](https://github.com/maathewssantana/aws-cloud-quest/blob/main/labs/ec2-auto-scaling.md)
+
+<sub> _Neste tópico mostra a sobre Aplicativo Web de Alta disponibilidade_ </sub>
